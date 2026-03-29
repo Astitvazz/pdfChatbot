@@ -1,0 +1,7 @@
+streamlit
+ollama
+chromadb
+PyMuPDF
+langchain-text-splitters
+groq
+python-dotenv
